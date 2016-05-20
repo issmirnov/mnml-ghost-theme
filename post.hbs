@@ -24,6 +24,7 @@
             {{content}}
         </section>
 
+        
         <footer class="post-footer">
 
         {{! Everything inside the #author tags pulls data from the author }}
@@ -68,10 +69,24 @@
             </section>
 
         </footer>
+        
+        <div class="container" id="related-posts">
+            <div class="half">
+                {{#next_post}}
+                    {{> "navcard"}}
+                {{else}}
+                    <span class="msg">Stay tuned for the next post!</span>
+                {{/next_post}}
+            </div>
+            <div class="half">
+                {{#prev_post}}
+                    {{> "navcard"}}
+                {{else}}
+                    <span class="msg">You've reached the end of the archives!</span>
+                {{/prev_post}}
+            </div>
+        </div>
+        
     {{/post}}
-    <!--
-    If you want Disqus comments, uncomment this. Make sure to set your disqus shortname in partials/comments.hbs first!
-     -->
-    {{!>comments}}
     </article>
 </main>

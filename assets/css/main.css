@@ -1836,3 +1836,41 @@ top: -35px;
     display: none !important;
   }
 }
+
+/*Custom*/
+#related-posts {
+    border-top: #EBF2F6 1px solid;
+    padding: 0 !important;
+    display: flex;
+    flex-flow: row nowrap;
+    overflow: hidden;
+    margin: 4rem 0 0 0;
+
+}
+.half {
+    position: relative;
+    flex: 1 0 50%;
+    width: 1 0 50%;
+}
+
+
+.pust-blurb {
+        
+}
+
+.blurb-title {
+	padding-top: 4rem;
+
+}
+.blurb-description {
+
+}
+
+#blurb-time {
+    font-size: 1rem;
+}
+
+.msg {
+	padding-top: 6rem;
+		
+}

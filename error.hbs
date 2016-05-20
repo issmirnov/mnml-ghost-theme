@@ -1,0 +1,16 @@
+{{!< default}}
+{{! The tag above means - insert everything in this file into the {body} of the default.hbs template }}
+
+{{>content-header}}
+
+<header class="main-header tag-template tag-head inner ">
+  <h1 class="page-title typl8-beta ">Dead End</h1>
+  <h2 class="page-description typl8-delta">
+    Error {{code}} : {{message}}
+  </h2>
+</header>
+
+{{! The main content area on the homepage }}
+<main class="content" role="main">
+    <p>Must have taken a wrong turn somewhere. Try starting over from <a href="{{@blog.url}}">home</a>.</p>
+</main>
