@@ -1,4 +1,4 @@
-![Ghost Compatability](http://img.shields.io/badge/Compatible%20with%20Ghost-v0.8.x-brightgreen.svg)
+![Ghost Compatability](http://img.shields.io/badge/Compatible%20with%20Ghost-v0.9.x-brightgreen.svg)
 
 # Mnml — a Typographically Tasteful [Ghost](http://github.com/tryghost/ghost/) Blog Theme
 
@@ -6,7 +6,7 @@ Mnml is a beautiful, responsive, content-focused theme with great typography. Th
 
 <!-- **Note: MNML is far from dead: although there hasn’t been been much activity in this repo, over 300 secret commits have been made as MNML metamorphizes into an completely new, completely amazing Ghost blog theme — Laminim. Watch this repo for Laminim’s launch! ** -->
 
-If you have a question or have found a bug please **open an issue** and help as soon as possible; if you like this theme, or use it on your blog, make me happy by **starring the project**, or spreading the word!
+If you have a question or have found a bug please **open an issue** and I’ll try to help as soon as possible; if you like this theme, or use it on your blog, make me happy by **starring the project**, or spreading the word!
 
 ### See mnml in the wild!
 - [mnml.herokuapp.com](http://mnml.herokuapp.com) Site for the theme. Runs latest official *release* or newer
@@ -32,7 +32,7 @@ If you have a question or have found a bug please **open an issue** and help as 
 - Responsive, accessible menu for static pages (or anything else) that stays out of the way [NEW!]
 - Comments powered by Disqus, loaded asynchronously so they don’t slow down your site. [NEW!]
 - Blazing fast
-  - ~~Thumbnails are resized automatically with Firesize.~~ Firesize shut down unexpectedly, and I am still looking for a replacement. 
+  - ~~Thumbnails are resized automatically with Firesize.~~ Firesize shut down unexpectedly, and I am still looking for a replacement.
   - Non-essential scripts and styles are loaded asynchronously or deferred
   - Comments are only loaded when needed
   - Uses the fastest math rendering library, and the fastest webfont provider [citation needed]
