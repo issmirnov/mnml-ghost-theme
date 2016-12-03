@@ -1,10 +1,10 @@
-![Ghost Compatability](http://img.shields.io/badge/Compatible%20with%20Ghost-v0.9.x-brightgreen.svg)
+![Ghost Compatability](http://img.shields.io/badge/Compatible%20with%20Ghost-v0.11.x-brightgreen.svg)
 
 # Mnml — a Typographically Tasteful [Ghost](http://github.com/tryghost/ghost/) Blog Theme
 
 Mnml is a beautiful, responsive, content-focused theme with great typography. The use of a type-scale, responsive typography, and carefully set line-length provide an optimal reading experience. Mnml also features post thumbnails on the homepage, an elegant print stylesheet, code syntax highlighting, and more.
 
-<!-- **Note: MNML is far from dead: although there hasn’t been been much activity in this repo, over 300 secret commits have been made as MNML metamorphizes into an completely new, completely amazing Ghost blog theme — Laminim. Watch this repo for Laminim’s launch! ** -->
+**UPDATE: If you like MNML, check out [Laminim](https://creativemarket.com/Curiositry/1037280-Laminim-%E2%80%94-Ghost-Theme-for-Bloggers), my new ghost theme for serious bloggers.**
 
 If you have a question or have found a bug please **open an issue** and I’ll try to help as soon as possible; if you like this theme, or use it on your blog, make me happy by **starring the project**, or spreading the word!
 
@@ -32,7 +32,7 @@ If you have a question or have found a bug please **open an issue** and I’ll t
 - Responsive, accessible menu for static pages (or anything else) that stays out of the way [NEW!]
 - Comments powered by Disqus, loaded asynchronously so they don’t slow down your site. [NEW!]
 - Blazing fast
-  - ~~Thumbnails are resized automatically with Firesize.~~ Firesize shut down unexpectedly, and I am still looking for a replacement.
+  <!-- - ~~Thumbnails are resized automatically with Firesize.~~ Firesize shut down unexpectedly, and I am still looking for a replacement. -->
   - Non-essential scripts and styles are loaded asynchronously or deferred
   - Comments are only loaded when needed
   - Uses the fastest math rendering library, and the fastest webfont provider [citation needed]
