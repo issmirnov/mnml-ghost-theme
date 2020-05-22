@@ -1,4 +1,5 @@
-![Ghost Compatability](http://img.shields.io/badge/Compatible%20with%20Ghost-v1.0%20+-brightgreen.svg) ![Ghost Compatability](http://img.shields.io/badge/Compatible%20with%20Ghost%20LTS-v0.11.11%20+-brightgreen.svg) 
+![Ghost Compatability](http://img.shields.io/badge/Compatible%20with%20Ghost-v3%20+-brightgreen.svg)
+
 # Mnml — a Typographically Tasteful [Ghost](http://github.com/tryghost/ghost/) Blog Theme
 
 Mnml is a beautiful, responsive, content-focused theme with great typography. The use of a type-scale, responsive typography, and carefully set line-length provide an optimal reading experience. Mnml also features post thumbnails on the homepage, an elegant print stylesheet, code syntax highlighting, and more.
@@ -15,6 +16,7 @@ If you have a question or have found a bug please **open an issue** and I’ll t
 
 - Compatible with the latest version of Ghost
 - Totally responsive
+- Paid membership support (*note: don’t forget to upload the included `routes.yaml` file*)
 - Perfect readability — MNML features a type-scale, responsive typography, and carefully set line length for the best reading experience.
 - Great Typography
   - Typeset in Source Serif Pro, Source Sans Pro, and Alegreya
